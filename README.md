@@ -1,1 +1,1 @@
-# photo-booth-sample
+# 2023_shinseong_math-day
